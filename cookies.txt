@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bigbet777.com	TRUE	/	FALSE	1999999999	ASPSESSIONIDQEBTAARD	JPIHMONBLLJMHBBKPHGPLNEB
+.ezugi.com	TRUE	/	FALSE	1999999999	__cfduid	d96034ead467a7b63b47537e4013aad761600372299
+ezugi.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.evolutiongaming.com	TRUE	/	FALSE	1999999999	AWSALB	9d6O+0yZT+Hz1H7ZTvkP1bMTiwccEMQmz/SAPXxkpTOC+OnCeWe0ezgFGXlyrGI6V1P9RN11nNNnjxB9qVgWqqEG7EIvlxRIYfmUuieWmML+GzoAKX0t6dBAsmgR
+www.evolutiongaming.com	TRUE	/	FALSE	1999999999	AWSALBCORS	9d6O+0yZT+Hz1H7ZTvkP1bMTiwccEMQmz/SAPXxkpTOC+OnCeWe0ezgFGXlyrGI6V1P9RN11nNNnjxB9qVgWqqEG7EIvlxRIYfmUuieWmML+GzoAKX0t6dBAsmgR
+www.evolutiongaming.com	TRUE	/	FALSE	1999999999	SameSite	None
+.whitelionbets.com	TRUE	/	FALSE	1999999999	__cfduid	d86050f1f841efe810527193820bd66af1600372303
+promo.whitelionbets.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.euromooncasino.com	TRUE	/	FALSE	1999999999	__cfduid	d55a4850852f25b384ce2b918fbecad501600372305
+promo.euromooncasino.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

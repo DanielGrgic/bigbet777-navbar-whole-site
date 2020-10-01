@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Sep 2020 21:48:29 at https://bigbet777.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bigbet777.com/ -O1 "C:\Users\danie\Desktop\desktop\bigbet777 navbar menu\bigbet777 navbar menu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:04:41	Error: 	"Not Found" (404) at link https://bigbet777.com/GET (from https://bigbet777.com/)
+22:04:41	Error: 	"Not Found" (404) at link https://bigbet777.com/fontawesome/webfonts/fa-brands-400.woff2 (from https://bigbet777.com/fontawesome/css/fontawesome-all.min.css)
+22:04:42	Error: 	"Not Found" (404) at link https://bigbet777.com/fontawesome/webfonts/fa-regular-400.woff2 (from https://bigbet777.com/fontawesome/css/fontawesome-all.min.css)
+22:04:42	Error: 	"Not Found" (404) at link https://bigbet777.com/fontawesome/webfonts/fa-solid-900.woff2 (from https://bigbet777.com/fontawesome/css/fontawesome-all.min.css)
+22:04:42	Error: 	"Not Found" (404) at link https://www.betclip.net/images_games/ezugi/17-Teen_Patti_400x200.jpg (from https://bigbet777.com/?action=games&provider=222&cat=5)
+22:04:42	Error: 	"Not Found" (404) at link https://s3-eu-west-1.amazonaws.com/groove-marketing-assets/games-prod/new/064f05339331d4aa2bc8f621c143cb4e40b20b39/Games Catalog image/image.JPG (from https://bigbet777.com/?action=games&provider=67&cat=5)
+22:04:42	Error: 	"Not Found" (404) at link https://bigbet777.com/css/grabbing.png (from https://bigbet777.com/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 13 seconds : 1198 links scanned, 1190 files written (287472582 bytes overall) [284174755 bytes received at 292060 bytes/sec], 4647763 bytes transferred using HTTP compression in 76 files, ratio 19%, 1.0 requests per connection
+(7 errors, 0 warnings, 0 messages)
